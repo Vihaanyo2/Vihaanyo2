@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Yogesh Kumare 👋
 
-<!--
-**Vihaanyo2/Vihaanyo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Microsoft Certified Power BI Developer
 
-Here are some ideas to get you started:
+I am passionate about building interactive dashboards and transforming raw data into meaningful business insights using Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Power BI
+- DAX
+- SQL
+- Power Query
+- Data Modeling
+- Microsoft Excel
+
+## 📊 Featured Projects
+
+### 📈 HR Analytics Dashboard
+Power BI dashboard for employee attrition analysis, workforce insights, and KPI tracking.
+
+### 📊 Sales Forecasting Dashboard
+Interactive dashboard for sales forecasting, trend analysis, and business performance.
+
+### 📱 Mobile Sales Dashboard
+Power BI dashboard with KPI cards, sales analysis, and interactive visualizations.
+
+### 🎮 Google Play Store Analytics
+Dashboard analyzing app ratings, installs, reviews, and categories.
+
+## 📫 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/yogesh-kumre-32117348/)
+- GitHub: https://github.com/Vihaanyo2
