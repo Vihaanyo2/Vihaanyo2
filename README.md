@@ -42,3 +42,5 @@ Dashboard analyzing app ratings, installs, reviews, and categories.
 
 - LinkedIn: (https://www.linkedin.com/in/yogesh-kumre-32117348/)
 - GitHub: https://github.com/Vihaanyo2
+
+- Thank you for visiting my profile! Feel free to explore my projects and connect with me on LinkedIn.
