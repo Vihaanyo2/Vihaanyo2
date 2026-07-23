@@ -14,6 +14,18 @@ I am passionate about building interactive dashboards and transforming raw data 
 
 ## 📊 Featured Projects
 
+### HR Analytics Dashboard
+Interactive dashboard for employee attrition analysis and KPI reporting.
+
+### Sales Forecasting Dashboard
+Forecasting sales trends with Power BI, DAX, and Power Query.
+
+### Mobile Sales Dashboard
+Interactive sales performance dashboard with KPI cards and drill-through analysis.
+
+### Google Play Store Analytics
+Dashboard analyzing app ratings, installs, and reviews.
+
 ### 📈 HR Analytics Dashboard
 Power BI dashboard for employee attrition analysis, workforce insights, and KPI tracking.
 
